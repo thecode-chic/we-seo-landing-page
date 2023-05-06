@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:wght@700&family=Open+Sans:wght@300;400&display=swap');
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Amaranth', sans-serif;
+}
+.bg-light{
+    background-color: #edeff6 !important;
+}
+.navbar-brand{
+    font-family: 'Amaranth', sans-serif;
+    color: #828af7;
+}
+.nav-item{
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
+.nav-link{
+    font-family: 'Open Sans', sans-serif;
+    color: #000;
+    font-weight: 400;
+    
+}
+/* buttons */
+.btn-primary{
+    background-color: #828af7 !important;
+    color: #fff !important;
+    font-family: 'Open Sans', sans-serif !important;
+    border: none !important;
+    padding: 10px 40px;
+}
+
+/* image */
